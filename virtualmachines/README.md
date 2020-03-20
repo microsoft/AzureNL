@@ -1,5 +1,7 @@
 # Virtual machines
 
+https://docs.microsoft.com/en-us/cli/azure/azure-cli-vm-tutorial?tutorial-step=2&view=azure-cli-latest
+
 ## Introduction
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 

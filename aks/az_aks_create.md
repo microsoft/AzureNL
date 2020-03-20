@@ -1,7 +1,9 @@
-# Introduction 
+# Azure Kubernetes Service 
+
+## Introduction
 This is a walkthrough of creating an Azure Kubernetes Cluster through the command-line interface.
 
-# Getting Started
+## Getting Started
 The easiest way to do this is to use the Azure cloud shell, either available through the icon at the top bar in the [Azure portal](https://portal.azure.com) or at https://shell.azure.com
 
 # Simple deployment
@@ -36,7 +38,8 @@ az aks get-versions --location $region --output table
 And then set the version in your script
 
 ```
-kubernetesversion=1.15.5
+region=westeurope
+kubernetesversion=1.16.7
 
 az aks create --resource-group $resourcegroupname --name $aksname --generate-ssh-keys --kubernetes-version $kubernetesversion --node-vm-size Standard_B2ms --node-count 2 
 ```
@@ -116,12 +119,6 @@ See this for more info on [choosing vm sizes](./choose_vm_size.md).
 2.	Software dependencies
 
 All dependencies are managed by the Azure cloud shell, so no need to do anything. If you want to do this the hard way, follow instructions in references below at aks create walkthrough. 
-
-# Build and Test
-TODO: Ideally we get to a point where the cluster creation is automated and also testing is automated. 
-
-# Contribute
-Feel free to contribute. Create an issue or pull request.  
 
 # References
 - [az aks create](https://docs.microsoft.com/en-us/cli/azure/aks?view=azure-cli-latest#az-aks-create)
