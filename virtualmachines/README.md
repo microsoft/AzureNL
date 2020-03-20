@@ -3,34 +3,41 @@
 https://docs.microsoft.com/en-us/cli/azure/azure-cli-vm-tutorial?tutorial-step=2&view=azure-cli-latest
 
 ## Introduction
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+This script will help you create a virtual machine in Azure and its dependencies. A virtual machine lives in a subnet in a virtual network and it can be reached using a public ip address. For simplicity this is the first approach.
 
-## Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+A security best practice is to not connect directly to over SSH/RDP but use a jumpbox like Azure Bastion in between. This will be the second approach.
 
-# Bastion
+## Resource group
 
-## Introduction
+``` 
+rgname=azvm
+location=westeurope
+az group create -n $rgname -l $location 
+```
 
-Text
-
-# DevTest Labs
-
-## Introduction
+## Virtual network
 
 Text
 
-## Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+``` 
+vnetname=azvnet
+az network vnet create -g $rgname -n $vnetname
+```
 
-## Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+## Public IP
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://www.visualstudio.com/en-us/docs/git/create-a-readme). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+Text
+
+``` az network public-ip create ```
+
+## Bastion
+
+Text
+
+``` az network bastion create ```
+
+## VM
+
+Text
+
+(DevTest Labs)
