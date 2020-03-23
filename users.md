@@ -1,7 +1,7 @@
 # Users
 
 ## Introduction
-This repo is a team effort, mostly by Microsoft employees in the Netherlands who work with Azure. Here you see an overview of users.
+This repo is a team effort, mostly by Microsoft employees in the Netherlands who work with Azure. Here you see an overview of users. Also check out their profiles for more hidden gems.
 
 ## List
 * [Agraj Mangal](https://github.com/agrajm)
