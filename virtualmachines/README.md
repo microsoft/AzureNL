@@ -7,16 +7,7 @@ This script will help you create a virtual machine in Azure and its dependencies
 
 A security best practice is to not connect directly to over SSH/RDP but use a jumpbox like Azure Bastion in between. This will be the second approach.
 
-## Resource group
-
-``` 
-rgname=azvm
-location=westeurope
-az group create -n $rgname -l $location 
-```
-
 ## Virtual network
-
 Text
 
 ``` 
@@ -25,19 +16,16 @@ az network vnet create -g $rgname -n $vnetname
 ```
 
 ## Public IP
-
 Text
 
 ``` az network public-ip create ```
 
 ## Bastion
-
 Text
 
 ``` az network bastion create ```
 
 ## VM
-
 Text
 
 (DevTest Labs)
