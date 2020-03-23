@@ -25,6 +25,7 @@ This repo is a team effort, mostly by Microsoft employees in the Netherlands who
 * [Paul Verboom](https://github.com/verboompj)
 * [Pieter de Bruin](https://github.com/pdebruin)
 * [Pranesh Soundarrajan](https://github.com/praneshsoundar)
+* [Rene Bremer](https://github.com/rebremer)
 * [Roger Busser](https://github.com/rogerbusser)
 * [Sarath Sasidharan](https://github.com/sarathsasidharan/)
 * [Victor Pikula](https://github.com/victorp13)
