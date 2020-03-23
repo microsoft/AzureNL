@@ -11,6 +11,9 @@ This repo is a team effort, mostly by Microsoft employees in the Netherlands who
 To follow along in this repo you will be interacting with an Microsoft Azure subscription and the Azure resource manager (ARM) API. 
 
 * Azure subscription
+  * Use [your existing subscription](https://portal.azure.com)
+  * Create [a trial subscription](https://azure.microsoft.com/free)
+  * Use [my visual studio benefits](https://my.visualstudio.com/Benefits)
 * Access to Azure Powershell, Azure command-line interface or Azure Cloud Shell. To see them in action, have a look at [Accessing Microsoft Azure using powershell or cli from Windows and Linux in Windows Terminal](https://youtu.be/qBS_Knxaz5A).
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=qBS_Knxaz5A
