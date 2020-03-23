@@ -11,12 +11,11 @@ This repo is a team effort, mostly by Microsoft employees in the Netherlands who
 To follow along in this repo you will be interacting with an Microsoft Azure subscription and the Azure resource manager (ARM) API. 
 
 * Azure subscription
-* Access to Azure Powershell, Azure command-line interface or Azure Cloud Shell. To see them in action, have a look at https://youtu.be/qBS_Knxaz5A.
+* Access to Azure Powershell, Azure command-line interface or Azure Cloud Shell. To see them in action, have a look at [Accessing Microsoft Azure using powershell or cli from Windows and Linux in Windows Terminal](https://youtu.be/qBS_Knxaz5A).
 
-testing 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=qBS_Knxaz5A
 " target="_blank"><img src="http://img.youtube.com/vi/qBS_Knxaz5A/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a> 
+alt="Accessing Microsoft Azure using powershell or cli from Windows and Linux in Windows Terminal" width="960" height="720" border="10" /></a> 
 
 1.	Installation
 
