@@ -6,7 +6,6 @@ This repo contains Azure samples of all sorts.
 ## People
 This repo is a team effort, mostly by Microsoft employees in the Netherlands who work with Azure. Here you see an overview of [Users](./users.md).
 
-# Content
 ## Getting started
 To follow along in this repo you will be interacting with an Microsoft Azure subscription and the Azure resource manager (ARM) API. 
 
@@ -19,8 +18,6 @@ To follow along in this repo you will be interacting with an Microsoft Azure sub
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=qBS_Knxaz5A
 " target="_blank"><img src="http://img.youtube.com/vi/qBS_Knxaz5A/0.jpg" 
 alt="Accessing Microsoft Azure using powershell or cli from Windows and Linux in Windows Terminal" width="960" height="720" border="10" /></a> 
-
-1.	Installation
 
 Services in Azure are bundled in resource groups, which can be created, deployed, deleted, managed as one. 
 
