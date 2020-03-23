@@ -25,6 +25,8 @@ Or
 {media}(youtube::qBS_Knxaz5A::420) 
 or 
 [![Test](https://img.youtube.com/vi/qBS_Knxaz5A/0.jpg)](https://www.youtube.com/watch?v=qBS_Knxaz5A) 
+or 
+[![test2](http://img.youtube.com/vi/qBS_Knxaz5A/0.jpg)](http://www.youtube.com/watch?v=qBS_Knxaz5A "test1")
 
 1.	Installation
 
