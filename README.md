@@ -14,15 +14,17 @@ To follow along in this repo you will be interacting with an Microsoft Azure sub
 * Access to Azure Powershell, Azure command-line interface or Azure Cloud Shell. To see them in action, have a look at https://youtu.be/qBS_Knxaz5A.
 
 testing 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/-pdYK9Xg8Jw" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/-pdYK9Xg8Jw" frameborder="0" allowfullscreen></iframe> 
 or 
-[![Video](http://img.youtube.com/vi/-pdYK9Xg8Jw/0.jpg)](http://www.youtube.com/watch?v=-pdYK9Xg8Jw)
+[![Video](http://img.youtube.com/vi/-pdYK9Xg8Jw/0.jpg)](http://www.youtube.com/watch?v=-pdYK9Xg8Jw) 
 or 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-pdYK9Xg8Jw
 " target="_blank"><img src="http://img.youtube.com/vi/-pdYK9Xg8Jw/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a> 
 Or 
-{media}(youtube::-pdYK9Xg8Jw::420)
+{media}(youtube::-pdYK9Xg8Jw::420) 
+or 
+[![Test](https://img.youtube.com/vi/qBS_Knxaz5A/0.jpg)](https://www.youtube.com/watch?v=qBS_Knxaz5A) 
 
 1.	Installation
 
