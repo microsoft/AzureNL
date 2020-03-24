@@ -20,6 +20,7 @@ This repo is a team effort, mostly by Microsoft employees in the Netherlands who
 * [Marc de Droog](https://github.com/mddazure)
 * [Marc van Houten](https://github.com/marcvanhouten)
 * [Mathieu Rietman](https://github.com/MathieuRietman)
+* [Maurice Jutte](https://github.com/maypuc)
 * [Murat Eken](https://github.com/meken)
 * [Mykhailo Zahlada](https://github.com/zmgit)
 * [Pascal van der Heiden](https://github.com/pascalvanderheiden)
