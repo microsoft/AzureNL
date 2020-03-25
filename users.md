@@ -11,6 +11,7 @@ This repo is a team effort, mostly by Microsoft employees in the Netherlands who
 * [Dennis van Herk](https://github.com/dvherk)
 * [Dick van der Sluijs](https://github.com/dedvds)
 * [Eric van Wijk](https://github.com/geekzter)
+* [Harmke Alkemade](https://github.com/harmke)
 * [Henk van de Crommert](https://github.com/Hevand)
 * [Jacco van Hoorn](https://github.com/JavahoMS)
 * [Jesse van Leth](https://github.com/jessevl)
