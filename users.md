@@ -17,7 +17,6 @@ This repo is a team effort, mostly by Microsoft employees in the Netherlands who
 * [Jacco van Hoorn](https://github.com/JavahoMS)
 * [Jesse van Leth](https://github.com/jessevl)
 * [Jochen van Wylick](https://github.com/jochenvw)
-* [Kees Schollaart](https://github.com/keesschollaart81)
 * [Maarten Wiese](https://github.com/maartenwiese)
 * [Marc de Droog](https://github.com/mddazure)
 * [Marc van Houten](https://github.com/marcvanhouten)
