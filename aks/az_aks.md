@@ -63,6 +63,11 @@ az aks nodepool add --resource-group $resourcegroupname --cluster-name $aksname 
 
 # TODO
 
+https://azure.github.io/application-gateway-kubernetes-ingress/setup/install-new/
+https://docs.microsoft.com/en-us/azure/aks/azure-ad-integration-cli
+https://docs.microsoft.com/en-us/azure/aks/configure-kubenet
+https://docs.microsoft.com/en-us/azure/aks/private-clusters
+
 This section needs additional work, since it requires the Azure network plugin + subnets
 
 2. Virtual nodes
