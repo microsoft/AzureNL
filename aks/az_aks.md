@@ -49,6 +49,5 @@ All dependencies are managed by the Azure cloud shell, so no need to do anything
 
 # References
 - [az aks create](https://docs.microsoft.com/en-us/cli/azure/aks?view=azure-cli-latest#az-aks-create)
-- [aks best practices](https://docs.microsoft.com/en-us/azure/aks/best-practices)
 - [aks networking](https://docs.microsoft.com/en-us/azure/aks/concepts-network)
 - [aks create walkthrough](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough)
