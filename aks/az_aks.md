@@ -38,7 +38,7 @@ agic managed
 bastion
 aad v2
 
-psp
+azure policy 
 auth ip ranges
 
 See this for more info on [choosing vm sizes](./choose_vm_size.md).

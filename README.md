@@ -8,7 +8,7 @@ This repo is a team effort, mostly by Microsoft employees in the Netherlands who
 
 ## Contents
 * [Azure command-line interface samples](./az_cli.md)
-* [Pega on AKS](./3rdparty/pega)
+* [Azure Kubernetes Service](./aks/README.md)
 * 3
 Feel free to add.
 

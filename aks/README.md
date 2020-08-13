@@ -10,5 +10,8 @@ Follow [this walkthrough](./az_aks_create.md) to get started with AKS using the 
 // Update, upgrade, scale
 // Delete
 
-## Additional scenarios
-Secure
+## Reference
+[AKS guidance](./aks_guidance.md)
+
+[AKS training](./aks_training.md)
+
