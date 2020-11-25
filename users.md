@@ -6,7 +6,7 @@ This repo is a team effort, mostly by Microsoft employees in the Netherlands who
 ## List
 * [Agraj Mangal](https://github.com/agrajm)
 * [Arash Nezami](https://github.com/anezami)
-* [Arthur Hallensleben](https://github.com/ahallensleben)
+* [Arthur Hallensleben](https://github.com/arthurhams)
 * [Dennis Mulder](https://github.com/dennismulder)
 * [Dennis van Herk](https://github.com/dvherk)
 * [Dick van der Sluijs](https://github.com/dedvds)
